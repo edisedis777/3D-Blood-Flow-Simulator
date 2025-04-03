@@ -2,7 +2,8 @@
 
 A Three.js-based interactive 3D simulation of blood flow, visualizing the movement of red blood cells, white blood cells, and platelets through a blood vessel.
 
-![Blood Flow Simulator Preview](preview.gif) <!-- Add a preview GIF or screenshot -->
+![Blood Flow Simulator Preview](https://github.com/user-attachments/assets/96add8ef-42c0-428b-a8c2-141e4a35fcc6)
+
 
 ## Features
 
