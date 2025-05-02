@@ -68,4 +68,4 @@ Contributions are welcome!
 - Created as an educational tool to demonstrate blood cell dynamics
 
 ## License
-This project is licensed under the MIT License - see the  file for details.
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
