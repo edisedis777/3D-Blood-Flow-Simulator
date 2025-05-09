@@ -8,17 +8,17 @@ A Three.js-based interactive 3D simulation of blood flow, visualizing the moveme
 ## Features
 
 - **Realistic Cell Models**: 
-  - Red blood cells with accurate biconcave disc shape
+  - Red blood cells with biconcave disc shape
   - White blood cells with textured surface
-  - Platelets with disc-like structure and granules
+  - Platelets with disc-like structure/granules
 - **Interactive Controls**:
   - Adjust flow speed (0.5x to 5x)
   - Modify cell count (50 to 300 cells)
   - Toggle visibility of different cell types
-  - Reset to default settings
-- **3D Navigation**: Orbit controls for rotation, panning, and zooming
-- **Responsive Design**: Mobile-friendly with touch support
-- **Dynamic Animation**: Cells move with natural wobble and rotation
+  - Reset to default
+- **3D Navigation**: Orbit controls
+- **Responsive Design**: Mobile-friendly
+- **Dynamic Animation**: Natural wobble/rotation
 
 ## Demo
 
@@ -56,16 +56,15 @@ python -m http.server 8000
 ```
 
 ## Technologies Used
-- Three.js - 3D graphics library
-- HTML5/CSS3 - Structure and styling
-- JavaScript (ES6 Modules) - Core logic
+- Three.js
+- HTML5/CSS3
+- JavaScript (ES6 Modules)
 
 ## Contributing
 Contributions are welcome! 
 
 ## Credits
-- Inspired by biological blood flow
-- Created as an educational tool to demonstrate blood cell dynamics
+- Inspired by biological blood flow and created as an educational tool to demonstrate blood cell dynamics
 
 ## License
 Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
