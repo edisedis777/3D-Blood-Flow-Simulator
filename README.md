@@ -22,7 +22,7 @@ A Three.js-based interactive 3D simulation of blood flow, visualizing the moveme
 
 ## Demo
 
-Try the live demo here: [Insert Live Demo Link]
+Try the live demo here: [https://edisedis777.github.io/3D-Blood-Flow-Simulator/]
 
 ## Installation
 
